@@ -15,7 +15,7 @@ public class DriverScript {
     public static ActionsKeywords actionsKeywords;
     public static String sActionKeyword;
     public static Method method[];
-    public static Properties OR;
+    public static Properties OR; 
     public static String sPageObject;
     public static int iTestStep;
     public static int iTestLastStep;
