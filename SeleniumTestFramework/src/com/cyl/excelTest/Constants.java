@@ -2,7 +2,7 @@ package com.cyl.excelTest;
 
 
 public class Constants {
-    public static final boolean key=true;  //为false则开启无界面模式(打包前改为key=false,ts=false)
+    public static final boolean key=false;  //为false则开启无界面模式(打包前改为key=false,ts=false)
     public static final boolean ts=false;//禁默调试模式是否开启
     private String codeip;
     private  String Path_TestData;
